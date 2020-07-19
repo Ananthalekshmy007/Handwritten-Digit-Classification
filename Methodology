@@ -1,0 +1,21 @@
+1.Gathering Data
+Loading the mnist dataset from the Keras
+
+2.Processing Data
+Reshaping the size of the datasets and Normalisation of the vectors
+
+3.Creating Model
+Creating Convolution layers and Pooling layers of the CNN, setting the epochs and finally compiling the model
+
+4.Training
+Training the model using model.fit () and saving the model
+
+5.Testing
+Testing the model with the test datasets
+
+6.Prediction 
+Passing the values for the model to predict
+
+
+
+
