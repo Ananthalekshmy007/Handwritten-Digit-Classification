@@ -16,6 +16,9 @@ Testing the model with the test datasets
 6.Prediction 
 Passing the values for the model to predict
 
+7.Graphical User Interface
+Loading the model to the GUI and letting the user provide input and the model to predict the output
+
 
 
 
